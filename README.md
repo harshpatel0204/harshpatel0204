@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Bappy 😀</h1>
+<h1 align="center">I'm Harsh Patel 😀</h1>
 <h4 align="center">I'm a AI/ML Engineer at Logicwind</h4>
 
 
@@ -14,7 +14,7 @@
 * Microcontrollers 
 * Robotics
 
-👉[My Online Portfolio](https://entbappy.github.io/bappy-portfolio)
+👉[My Online Portfolio]([https://entbappy.github.io/bappy-portfolio](https://harshportfoliosite.netlify.app/))
 
 
 <h3 align="left">Languages and Tools:</h3>
