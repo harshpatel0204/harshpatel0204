@@ -14,7 +14,7 @@
 * Microcontrollers 
 * Robotics
 
-👉[My Online Portfolio]([https://entbappy.github.io/bappy-portfolio](https://harshportfoliosite.netlify.app/])
+👉[My Online Portfolio]([(https://harshportfoliosite.netlify.app/])
 
 
 <h3 align="left">Languages and Tools:</h3>
